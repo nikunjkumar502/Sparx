@@ -1,0 +1,23 @@
+div{
+	text-align: justify !important;;
+}
+.product-image{
+	height: 200px;
+	background-color: transparent;
+	background-size: cover;
+
+	
+}
+.product-image:hover{
+	transform: scale(1.1,1);
+	transition: all ease 1s;
+	cursor: pointer;
+	
+}
+.jumbo-nav-link{
+	font-size: x-small;
+}
+.jumbotron {
+    padding: 20px;
+    
+}
